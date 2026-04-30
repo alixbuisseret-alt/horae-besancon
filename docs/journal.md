@@ -7,11 +7,15 @@
 - Création du repo GitHub horae-besancon
 
 ## 2026-04-30 — Séance 2
-- Script téléchargement Morgan MS M.293 : 19/19 peintures (uniquement) ✅
-- Morgan : accès partiel via ICA (folios peints seulement)
-- Notebook sauvegardé sur GitHub dans notebooks/
+- Morgan M. 293 et M. 287: accès partiel via ICA (folios peints seulement) - MS M.293 : 19 peintures (uniquement) ✅ ; MS M.287 : 31 peintures (uniquement) ✅
+- Châlons-en-Champagne, Bibliothèque municipale, ms. 1329: seulement deux iages téléchargées à la main. 
+- Notebook sauvegardé sur GitHub dans notebooks/ ✅
 - Vienne ÖNB Cod. 1881 : HMML bloque téléchargement auto
   → 12 images récupérées manuellement
   → Images directes supprimées du serveur HMML
   → Pas de numérisation ÖNB disponible
+- New Zealand, Alexander Turnbull Library — images:
+  Système DPS (Ex Libris) — pas de IIIF, pas d'URL image directe
+  12 miniatures téléchargées manuellement
+  Même situation que Vienne HMML
 
