@@ -19,7 +19,8 @@
   12 miniatures téléchargées manuellement
   Même situation que Vienne HMML
 - J'ai laissé de côté tous les manuscrits qui n'ont pas d'images du tout et pas de lien en ligne dans la liste des 22 manuscrits, comme ceux qui sont en collection privée. 
-  --> pour prochaine séance: 
+
+  #pour prochaine séance: 
   - finaliser le téléchargement: New York, Public Library, ms. 41 	Des IIIF, mais seulement quelques peintures (6) enregistrées via Python, voir dossier Cours/hum num
   - ajouter le iiif sur le tableur: Vesoul, Bibliothèque municipal, ms. 110.
   - check si je ne peux pas trouver quelque chose pour Melbourne. 
