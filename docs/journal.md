@@ -18,4 +18,7 @@
   Système DPS (Ex Libris) — pas de IIIF, pas d'URL image directe
   12 miniatures téléchargées manuellement
   Même situation que Vienne HMML
+- New York, Public Library, ms. 41 	Des IIIF, mais seulement quelques peintures (6) enregistrées via Python, voir dossier Cours/hum num
+
+
 
