@@ -29,6 +29,7 @@
     forcément.
 ## 2026-05-1 — Séance 3  
   - téléchargée New York, Public Library, ms. 41 à la main seulement quelques peintures dispo sur le site.
+  - Melbournem trouvé le manifest entier, et téléchargé via Python
 
     !Acra Initiale indispo, ajouter sur le Excel plus tard...
 
