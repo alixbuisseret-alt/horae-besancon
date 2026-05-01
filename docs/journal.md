@@ -26,7 +26,12 @@
   - check si je ne peux pas trouver quelque chose pour Melbourne. 
   - montrer à claude ce que j'ai pour le corpus et lui demander si ca fera l'affaire ou si je dois trouver d'autres manuscrits plus complets avec iiif pour que ca fasse plus
     de sens pour la partie textuelle et pas uniquement icono. Et si je dois trouver d'autres liens, si c'est ok pour le projet B e C de ne pas utiliser les mêmes manuscrits
-    forcément. 
+    forcément.
+## 2026-05-1 — Séance 3  
+  - téléchargée New York, Public Library, ms. 41 à la main seulement quelques peintures dispo sur le site.
+
+    !Acra Initiale indispo, ajouter sur le Excel plus tard...
+
 
 
 
