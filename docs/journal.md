@@ -46,6 +46,9 @@
     - outils de segm: pixel classification [Capobianco et al., 2018], as in Kraken [Kiessling, 2019]; object detection with tools like YOLO [Jiang et al., 2022] used by Prasad et al. [2020] for table detection or YALTAi [Clérice, 2023] for page segmentation; multi-modal methods that perform jointly the segmentation and the transcription process [Liu et al., 2019, Xu et al., 2021]).
     - voc: Horae projec (paleo et DH dirigé par Dominique Stutzmann; Hazem et al, 2020); Voculaire codicologique (codico tradi; Muzerelle 1985 - sur Codicologia et en version SKOS, voir Geoffroy et al 2021)); SegmOnto (voc. pour segmentation, utile pour tout type d'écriture y compris scrolls, avantage: "GraphicZone* pour les illustrations ou ornementations; Gabay et al. 2024)
     - Proposition: La segmentation du layout suit le vocabulaire contrôlé SegmOnto (Gabay et al. 2024), implémenté via YALTAi/LaDaS (Clérice et al. 2023, 2024) pour la détection automatique des zones textuelles et décoratives. La classification des sections liturgiques s'appuie ensuite sur le projet Horae (Hazem et al. 2020), spécifiquement développé pour les livres d'heures médiévaux.
+
+  ### Conversation avec Paul Guhennec - Retour à étape 1, élargissement du corpus à tous les manuscrits (collecte d'un max de données) + pour ce qui est de l'analyse des images: voir ce que Iconclass donne sur mes images (step1), puis en fonction ajouter des niveaux d'analyse (step2) et projeter différents niveaux de cluster (step3).
+  
    ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
 
 
