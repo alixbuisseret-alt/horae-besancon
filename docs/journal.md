@@ -48,7 +48,7 @@
     - Proposition: La segmentation du layout suit le vocabulaire contrôlé SegmOnto (Gabay et al. 2024), implémenté via YALTAi/LaDaS (Clérice et al. 2023, 2024) pour la détection automatique des zones textuelles et décoratives. La classification des sections liturgiques s'appuie ensuite sur le projet Horae (Hazem et al. 2020), spécifiquement développé pour les livres d'heures médiévaux.
 
       ### Conversation avec Paul Guhennec - Retour à étape 1, agrandissement du corpus à tous les manuscrits (collecte d'un max de données) + pour ce qui est de l'analyse des images: voir ce que Iconclass donne sur mes images (step1), puis en fonction ajouter des niveaux d'analyse (step2) et projeter différents niveaux de cluster pour les images (step3).
-      - notes dans l'agrandissement du corpus: Paris, BnF, Latin 1174, pas digitalisé; Paris, Bibliothèque nationale de France, nal. 3118 digitalisé en entier mais en noir et blanc
+      - notes dans l'agrandissement du corpus: Paris, BnF, Latin 1174, pas digitalisé; Paris, Bibliothèque nationale de France, nal. 3118 et Munich, Staatsbibliothek, ms. lat. 10096 digitalisés en entier mais en noir et blanc
     
        ### à faire: Vésoul BM ms. 110 et Chalons sur Marne BM ms. 333 --> Acra Initiale indispo, ajouter sur le Excel plus tard...
 
