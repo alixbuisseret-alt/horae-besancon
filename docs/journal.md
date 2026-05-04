@@ -42,7 +42,7 @@
     ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
     
   ## 2026-05-4 — Séance 4
-  - J'attaque étape 2: état de l'art pour le segmentation des textes.
+  - J'attaque étape 2: état de l'art pour le segmentation des textes. SegmOnto (voc. pour segmentation; Gabay et al. 2024)
    ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
 
 
