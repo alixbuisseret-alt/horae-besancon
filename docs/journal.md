@@ -50,7 +50,7 @@
       ### Conversation avec Paul Guhennec - Retour à étape 1, élargissement du corpus à tous les manuscrits (collecte d'un max de données) + pour ce qui est de l'analyse des images: voir ce que Iconclass donne sur mes images (step1), puis en fonction ajouter des niveaux d'analyse (step2) et projeter différents niveaux de cluster pour les images (step3).
       - Paris, BnF, Latin 1174, pas digitalisé
     
-       ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
+       ### à faire: Vésoul BM ms. 110 et Chalons sur Marne BM ms. 333 --> Acra Initiale indispo, ajouter sur le Excel plus tard...
 
 
 
