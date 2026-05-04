@@ -19,7 +19,7 @@
   12 miniatures téléchargées manuellement
   Même situation que Vienne HMML
 - J'ai laissé de côté tous les manuscrits qui n'ont pas d'images du tout et pas de lien en ligne dans la liste des 22 manuscrits, comme ceux qui sont en collection privée. 
-  #### pour prochaine séance: 
+  ### pour prochaine séance: 
   - finaliser le téléchargement: New York, Public Library, ms. 41 	Des IIIF, mais seulement quelques peintures (6) enregistrées via Python, voir dossier Cours/hum num
   - ajouter le iiif sur le tableur: Vesoul, Bibliothèque municipal, ms. 110.
   - check si je ne peux pas trouver quelque chose pour Melbourne. 
@@ -39,7 +39,7 @@
     TARGET: Démontrer le pipeline, évaluer les outils HTR et iconographie. Démontrer que le pipeline fonctionne sur 14 manuscrits, identifier les limites, et proposer une
     extension à 73 — c'est exactement la structure d'un article de humanités numériques convaincant.
 
-    #### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
+    ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
     
   ## 2026-05-4 — Séance 4
   - J'attaque étape 2: état de l'art pour le segmentation des pages.
@@ -47,9 +47,9 @@
     - voc: Horae projec (paleo et DH dirigé par Dominique Stutzmann; Hazem et al, 2020); Voculaire codicologique (codico tradi; Muzerelle 1985 - sur Codicologia et en version SKOS, voir Geoffroy et al 2021)); SegmOnto (voc. pour segmentation, utile pour tout type d'écriture y compris scrolls, avantage: "GraphicZone* pour les illustrations ou ornementations; Gabay et al. 2024)
     - Proposition: La segmentation du layout suit le vocabulaire contrôlé SegmOnto (Gabay et al. 2024), implémenté via YALTAi/LaDaS (Clérice et al. 2023, 2024) pour la détection automatique des zones textuelles et décoratives. La classification des sections liturgiques s'appuie ensuite sur le projet Horae (Hazem et al. 2020), spécifiquement développé pour les livres d'heures médiévaux.
 
-  #### Conversation avec Paul Guhennec - Retour à étape 1, élargissement du corpus à tous les manuscrits (collecte d'un max de données) + pour ce qui est de l'analyse des images: voir ce que Iconclass donne sur mes images (step1), puis en fonction ajouter des niveaux d'analyse (step2) et projeter différents niveaux de cluster (step3).
+    ### Conversation avec Paul Guhennec - Retour à étape 1, élargissement du corpus à tous les manuscrits (collecte d'un max de données) + pour ce qui est de l'analyse des images: voir ce que Iconclass donne sur mes images (step1), puis en fonction ajouter des niveaux d'analyse (step2) et projeter différents niveaux de cluster (step3).
   
-   #### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
+     ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
 
 
 
