@@ -42,7 +42,9 @@
     ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
     
   ## 2026-05-4 — Séance 4
-  - J'attaque étape 2: état de l'art pour le segmentation des pages. SegmOnto (voc. pour segmentation, utile pour tout type d'écriture y compris scrolls; Gabay et al. 2024); pixel classification [Capobianco et al., 2018], as in Kraken [Kiessling, 2019]; object detection with tools like YOLO [Jiang et al., 2022] used by Prasad et al. [2020] for table detection or YALTAi [Clérice, 2023] for page segmentation; multi-modal methods that perform jointly the segmentation and the transcription process [Liu et al., 2019, Xu et al., 2021]). 
+  - J'attaque étape 2: état de l'art pour le segmentation des pages.
+    - outils de segm: pixel classification [Capobianco et al., 2018], as in Kraken [Kiessling, 2019]; object detection with tools like YOLO [Jiang et al., 2022] used by Prasad et al. [2020] for table detection or YALTAi [Clérice, 2023] for page segmentation; multi-modal methods that perform jointly the segmentation and the transcription process [Liu et al., 2019, Xu et al., 2021]).
+    - voc: SegmOnto (voc. pour segmentation, utile pour tout type d'écriture y compris scrolls; Gabay et al. 2024)
    ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
 
 
