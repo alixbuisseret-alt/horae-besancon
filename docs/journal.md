@@ -30,15 +30,21 @@
 ## 2026-05-1 — Séance 3  
   - téléchargée New York, Public Library, ms. 41 à la main seulement quelques peintures dispo sur le site.
   - Melbourne: j'ai trouvé le manifest entier, et téléchargé via Python
-    ### CORPUS FINAL:
-    1- Projet B (HTR + structure textuelle) : 8 manuscrits complets IIIF
-    2- Projet C (iconographie) : 14 manuscrits avec enluminures (dont 8 manuscrits complets et 6 manuscurits partiels, dont uniquement les peintures sont numérisées, que j'ai
+    ### Etape 1 ✅
+    Corpus:
+    1. Projet B (HTR + structure textuelle) : 8 manuscrits complets IIIF
+    2. Projet C (iconographie) : 14 manuscrits avec enluminures (dont 8 manuscrits complets et 6 manuscurits partiels, dont uniquement les peintures sont numérisées, que j'ai
     téléchargé à la main ou avec python)
-    3- Corpus total de référence : 14 manuscrits actifs.
+    3. Corpus total de référence : 14 manuscrits actifs.
     TARGET: Démontrer le pipeline, évaluer les outils HTR et iconographie. Démontrer que le pipeline fonctionne sur 14 manuscrits, identifier les limites, et proposer une
     extension à 73 — c'est exactement la structure d'un article de humanités numériques convaincant.
 
     ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
+    
+  ## 2026-05-4 — Séance 4
+  - J'attaque étape 2: état de l'art pour le segmentation des textes.
+   ### à faire: Acra Initiale indispo, ajouter sur le Excel plus tard...
+
 
 
 
