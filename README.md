@@ -18,7 +18,7 @@ Alix Buisseret, Université de Genève
             ↓
     5. [C]  Classification iconographique (CLIP / IconArt / Replica)
             ↓
-    6. Évaluation critique et ou ajouter des couches d'analyse
+    6. Évaluation critique et ou ajouter des couches d'analyse de l'image 
 
 # Découpage détaillé du pipepine: 
 1. Constitution du corpus image (1-2 semaines)
