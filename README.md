@@ -30,6 +30,18 @@ l'expertise du connoisseur ?
 
 ## Pipeline
 
+1. Manuscrit numérisé (IIIF)
+        ↓
+2. [B1] Transcription HTR (e-Scriptorium)
+        ↓
+3. [B2] Classification des sections textuelles (SegmOnto et Horae)
+        ↓
+4. [B3] Détection des régions enluminées (YOLO / layout detection)
+        ↓
+5. [C]  Classification iconographique (CLIP / IconArt / Replica)
+        ↓
+6. Évaluation critique et ou ajouter des couches d'analyse de l'image 
+
 ### Étape 1 — Constitution du corpus et collecte des images
 Identification des manuscrits bisontins du XVe siècle et récupération 
 des images via les APIs IIIF des bibliothèques partenaires ou 
