@@ -2,9 +2,7 @@
 
 ## Description
 Ce projet développe un pipeline numérique pour l'analyse automatisée 
-d'un corpus pilote de 14 manuscrits de livres d'heures bisontins du XVe siècle.
-Il constitue une preuve de concept destinée à être étendue à un corpus 
-de 73 manuscrits dans le cadre d'une recherche postdoctorale.
+d'un corpus de 63 manuscrits de livres d'heures bisontins du XVe siècle.
 
 **Auteure** : Alix Buisseret
 **Institution** : Université de Genève 
@@ -23,10 +21,9 @@ l'expertise du connoisseur ?
 ---
 
 ## Corpus
-- **Corpus pilote** : 14 manuscrits actifs (sur 22 identifiés)
+- **Corpus pilote** : 63 manuscrits actifs
 - **Manuscrits complets IIIF** (pipeline B) : 8 manuscrits
 - **Manuscrits avec enluminures** (pipeline C) : 14 manuscrits
-- **Extension possible** : 73 manuscrits (postdoc)
 
 ---
 
