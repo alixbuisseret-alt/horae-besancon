@@ -12,7 +12,7 @@ Alix Buisseret, Université de Genève
             ↓
     2. [B1] Transcription HTR (e-Scriptorium)
             ↓
-    3. [B2] Classification des sections textuelles (Horae)
+    3. [B2] Classification des sections textuelles (SegmOnto et Horae)
             ↓
     4. [B3] Détection des régions enluminées (YOLO / layout detection)
             ↓
