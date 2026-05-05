@@ -74,6 +74,6 @@ Outils:
   - Sublime text
   - E-scriptorium
   - Github
-  - tableur (Excel)
-  - Sur navigateur: Biblissima, COMMA, Horaem Google Clab.
+  - Excel
+  - Sur navigateur: Biblissima, COMMA, Horae, Google Clab.
   - Plus tard: YOLO. CLIP, Icon Art et Replica. 
