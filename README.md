@@ -4,6 +4,7 @@
 Ce projet développe un pipeline numérique pour l'analyse automatisée 
 d'un corpus de 63 manuscrits de livres d'heures bisontins du XVe siècle.
 
+
 **Auteure** : Alix Buisseret
 **Institution** : Université de Genève 
 **Promoteur** : Simon Gabay et Paul Guhennec
@@ -34,16 +35,16 @@ Identification des manuscrits bisontins du XVe siècle et récupération
 des images via les APIs IIIF des bibliothèques partenaires ou 
 téléchargement manuel quand le IIIF n'est pas disponible.
 
-**Outils** : Python, requests, APIs IIIF (Gallica, ÖNB, SLV, IRHT, Huntington)  
+**Outils** : Python, requests, APIs IIIF.  
 **Input** : URLs de manifestes IIIF  
 **Output** : Images téléchargées par manuscrit
 
 ### Étape 2 — Transcription HTR (Projet B)
 Transcription automatique du texte latin médiéval des manuscrits 
-complets via reconnaissance automatique de l'écriture (HTR).
+complets via reconnaissance automatique de l'écriture (HTR) - SegmOnto.
 
 **Outils** : e-Scriptorium, modèles HTR pré-entraînés sur le latin médiéval  
-**Input** : Images complètes des manuscrits (8 manuscrits IIIF complets)  
+**Input** : Images complètes des manuscrits (63 manuscrits)
 **Output** : Transcriptions textuelles par folio
 
 ### Étape 3 — Classification des sections textuelles (Projet B)
@@ -51,7 +52,7 @@ Identification et classification automatique des sections liturgiques
 des livres d'heures (Calendrier, Heures de la Vierge, Psaumes 
 pénitentiaux, Office des morts, etc.) à partir des transcriptions.
 
-**Outils** : Horae (Simon Gabay)  
+**Outils** : Horae project. 
 **Input** : Transcriptions HTR  
 **Output** : Structure textuelle annotée par manuscrit
 
@@ -59,7 +60,7 @@ pénitentiaux, Office des morts, etc.) à partir des transcriptions.
 Localisation automatique des zones enluminées sur les pages de manuscrits 
 pour distinguer texte, décoration et miniatures.
 
-**Outils** : Modèles de détection de layout (dhSegment / LayoutParser)  
+**Outils** : Modèles de détection de layout (dhSegment / LayoutParser) - SegmOnto. 
 **Input** : Images des folios  
 **Output** : Coordonnées et crops des enluminures
 
@@ -68,8 +69,8 @@ Identification automatique des sujets représentés dans les enluminures
 et évaluation critique des outils existants.
 
 **Outils** : CLIP, IconArt, Replica  
-**Input** : Images des enluminures (14 manuscrits)  
-**Output** : Classifications automatiques + évaluation par l'expert
+**Input** : Images des enluminures (63 manuscrits)  
+**Output** : Classifications automatiques + évaluation par moi
 
 ### Étape 5b — Clustering visuel et connoisseurship computationnel
 Regroupement automatique des enluminures par similarité visuelle 
@@ -79,7 +80,7 @@ Cette étape constitue une approche computationnelle du connoisseurship :
 là où l'expert regroupe des œuvres par reconnaissance stylistique,
 l'outil regroupe par distance visuelle dans un espace de features.
 La confrontation entre les deux logiques de regroupement est 
-l'argument central du projet.
+l'argument central du projet.s
 
 **Outils** : Replica (EPFL), CLIP embeddings + clustering (k-means, UMAP)  
 **Input** : Images des enluminures (14 manuscrits)  
