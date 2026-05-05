@@ -51,15 +51,15 @@
       - notes dans l'agrandissement du corpus: Paris, BnF, Latin 1174 et Vienne, ONB, Cod. s.n. 2615 pas digitalisés; Paris, Bibliothèque nationale de France, nal. 3118 et Munich, Staatsbibliothek, ms. lat. 10096 et Paris, BnF, Latin 848 digitalisés en entier mais en noir et blanc
      
      ### Etape 1 ✅✅
-      **Corpus total : 62 manuscrits**
+      **Corpus total : 63 manuscrits**
       - ✅ Complet (IIIF ou images complètes) : 44 manuscrits — 
         dont 38 avec manifeste IIIF direct et 6 avec images 
         téléchargées manuellement ou via Python
-      - ⚠️ Partiel (enluminures uniquement) : 18 manuscrits — 
+      - ⚠️ Partiel (enluminures uniquement) : 19 manuscrits — 
         images récupérées via Morgan ICA, téléchargement manuel, 
         ou IIIF partiel
       - Pipeline B (HTR + sections textuelles) : 44 manuscrits complets
-      - Pipeline C (iconographie + clustering) : 62 manuscrits
+      - Pipeline C (iconographie + clustering) : 63 manuscrits
     
        ### à faire: Vésoul BM ms. 110 et Chalons sur Marne BM ms. 333 --> Acra Initiale indispo, ajouter sur le Excel plus tard... et checker les manuscrits sur les bases de l'IRHT lesquels sont complets et parciels (parce que la j'ai uniquement copié les manifest depuis Biblissima sans voir la numérisation).
 
