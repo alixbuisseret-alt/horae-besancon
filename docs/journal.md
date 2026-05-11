@@ -62,8 +62,15 @@
       - Pipeline C (iconographie + clustering) : 63 manuscrits
     
        ### à faire: Vésoul BM ms. 110 et Chalons sur Marne BM ms. 333 --> Acra Initiale indispo, ajouter sur le Excel plus tard... et checker les manuscrits sur les bases de l'IRHT lesquels sont complets et parciels (parce que la j'ai uniquement copié les manifest depuis Biblissima sans voir la numérisation).
-
-
+  ## 2026-05-11 — Séance 5
+**e-Scriptorium — segmentation blla.mlmodel**
+- Lignes de texte : bien détectées ✅
+- Enluminures / décoration marginale : non détectées ❌
+- Lettrines décorées : non détectées ❌
+- Conclusion : modèle suffisant pour pipeline B (HTR)
+  mais insuffisant pour pipeline C (localisation enluminures)
+- Pipeline C nécessitera YALTAi/SegmOnto dans une étape séparée
+       ### à faire: Vésoul BM ms. 110 et Chalons sur Marne BM ms. 333 --> Acra Initiale indispo, ajouter sur le Excel plus tard... et checker les manuscrits sur les bases de l'IRHT lesquels sont complets et parciels (parce que la j'ai uniquement copié les manifest depuis Biblissima sans voir la numérisation).
 
 
 
