@@ -76,7 +76,7 @@ chercher un modèle YALTAi/LaDaS ou  Lectaurep puis application vocabulaire Segm
 simultanément texte et zones décoratives. Voir avec Simon.
   ### à faire: Vésoul BM ms. 110 et Chalons sur Marne BM ms. 333 --> Acra Initiale indispo, ajouter sur le Excel plus tard... et checker les manuscrits sur les bases de l'IRHT lesquels sont complets et parciels (parce que la j'ai uniquement copié les manifest depuis Biblissima sans voir la numérisation).
 
-  ## 2026-05-XX — Configuration de l'ontologie d'annotation SegmOnto
+  ## 2026-06-10 — Configuration de l'ontologie et première annotations SegmOnto
 
 **Décision prise : taxonomie des zones graphiques pour les livres d'heures bisontins**
 
