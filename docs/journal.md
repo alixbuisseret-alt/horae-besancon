@@ -76,5 +76,37 @@ chercher un modèle YALTAi/LaDaS ou  Lectaurep puis application vocabulaire Segm
 simultanément texte et zones décoratives. Voir avec Simon.
   ### à faire: Vésoul BM ms. 110 et Chalons sur Marne BM ms. 333 --> Acra Initiale indispo, ajouter sur le Excel plus tard... et checker les manuscrits sur les bases de l'IRHT lesquels sont complets et parciels (parce que la j'ai uniquement copié les manifest depuis Biblissima sans voir la numérisation).
 
+  ## 2026-05-XX — Configuration de l'ontologie d'annotation SegmOnto
+
+**Décision prise : taxonomie des zones graphiques pour les livres d'heures bisontins**
+
+Après test de blla.mlmodel (SegmOnto par défaut), constat que le modèle
+ne détecte pas les zones enluminées — il se limite aux lignes de texte.
+Nécessité de fine-tuner un modèle spécifique aux manuscrits enluminés.
+
+**Zones graphiques définies (GraphicZone) :**
+- GraphicZone:illumination — grande miniature dans la zone centrale
+  (pleine justification ou demi-page)
+- GraphicZone:illustration — petite miniature dans le corps du texte
+- GraphicZone:marginalScene — scène figurative encadrée dans la marge
+- GraphicZone:drollery — figure isolée dans la marge, sans cadre
+  (drôlerie, grotesque, animal, personnage seul)
+- GraphicZone:ornamentation — décoration marginale non figurative
+  (rinceaux, fleurs, feuillages, entrelacs)
+
+**Décisions intellectuelles documentées :**
+- La taille n'est pas encodée dans le label (calculable depuis les
+  coordonnées) — distinction grande/petite implicite dans
+  illumination vs illustration
+- Les numéros (#1, #2) ne sont pas dans l'ontologie — ajoutables
+  en post-traitement si nécessaire
+- Les bordures habitées = GraphicZone:ornamentation globale ;
+  si médaillon narratif distinct = GraphicZone:marginalScene par-dessus
+- DropCapitalZone exclu de GraphicZone (convention SegmOnto)
+
+**Compatibilité :** labels conformes à la syntaxe SegmOnto
+(Gabay et al. 2024) — réutilisables et partageables
+
+**Début de l'annotation manuelle sur Fondue**  — stratégie graduée : maintenant annotation de GraphicZone:illumination, GraphicZone:illustration et GraphicZone:marginalScene.
 
 
