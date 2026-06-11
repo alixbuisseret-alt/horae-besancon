@@ -113,6 +113,7 @@ Nécessité de fine-tuner un modèle spécifique aux manuscrits enluminés.
   - Arras BM ms. 540
   - Baltimore BAM W 626
   - Cambridge, Fitzwilliam Library, ms. 69
+  - Chalon en Champagne, BM, ms. 1329
   - La Haye, Koninklijke Bibliotheek, KB 76 F 12
   - Melbourne, State Library of Victoria, 096/R66Hm
   - Montréal Université McGill ms. 156
