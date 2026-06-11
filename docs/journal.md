@@ -74,7 +74,7 @@
 Plutôt que blla.mlmodel (texte seulement), 
 chercher un modèle YALTAi/LaDaS ou  Lectaurep puis application vocabulaire SegmOnto qui détecte 
 simultanément texte et zones décoratives. Voir avec Simon.
-  ### à faire: Vésoul BM ms. 110 et Chalons sur Marne BM ms. 333 --> Acra Initiale indispo, ajouter sur le Excel plus tard... et checker les manuscrits sur les bases de l'IRHT lesquels sont complets et parciels (parce que la j'ai uniquement copié les manifest depuis Biblissima sans voir la numérisation).
+  ### à faire: Vésoul BM ms. 110 et Chalons sur Marne BM ms. 333 --> Acra Initiale indispo, ajouter sur le Excel plus tard... et checker les manuscrits sur les bases de l'IRHT lesquels sont complets et parciels (parce que la j'ai uniquement copié les manifest depuis Biblissima sans voir la numérisation). -- DONE ✅
 
   ## 2026-06-10 — Configuration de l'ontologie et première annotations SegmOnto
 
@@ -109,4 +109,24 @@ Nécessité de fine-tuner un modèle spécifique aux manuscrits enluminés.
 
 **Début de l'annotation manuelle sur Fondue**  — stratégie graduée : maintenant annotation de GraphicZone:illumination, GraphicZone:illustration et GraphicZone:marginalScene.
 
-
+  ## 2026-06-11 - Annotation pt 1
+  - Arras BM ms. 540
+  - Baltimore BAM W 626
+  - Cambridge, Fitzwilliam Library, ms. 69
+  - La Haye, Koninklijke Bibliotheek, KB 76 F 12
+  - Melbourne, State Library of Victoria, 096/R66Hm
+  - Montréal Université McGill ms. 156
+  - Nashville, Vanderbilt Univserity, Fine Arts Gallery collection, Acq. 1983.014
+  - New York, Morgan Library and Museum, Ms M 28
+  - New York, Morgan Library and Museum, ms. M 1000
+  - New York, Morgan Library & Museum, MS. M.287
+  - New York, Morgan Library & Museum, MS. M.293
+  - New York, Morgan Library and Museum, ms. M. 453
+  - New York, Morgan Library and Museum, ms. M.57
+  - New York, Morgan Library and Museum, ms. M.196
+  - New York, Public Library, ms. 41
+  - Philadelphia, UP, Lewis E 85
+  - Princeton, University Art Museum, y1950-4
+  - Vienne, Österreichische Nationalbibliothek, cod. 1881
+  - Vienne, Österreichische Nationalbibliothek, cod. 1889
+  - Wellington, Alexander Turnbull Library, National Library of New Zealand, MSR-02 
