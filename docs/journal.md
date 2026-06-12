@@ -109,7 +109,7 @@ Nécessité de fine-tuner un modèle spécifique aux manuscrits enluminés.
 
 **Début de l'annotation manuelle sur Fondue**  — stratégie graduée : maintenant annotation de GraphicZone:illumination, GraphicZone:illustration et GraphicZone:marginalScene.
 
-  ## 2026-06-11 - Annotation pt 1
+  ## 2026-06-11 - Anotation pt 1
   - Arras BM ms. 540
   - Baltimore BAM W 626
   - Cambridge, Fitzwilliam Library, ms. 69
@@ -119,15 +119,12 @@ Nécessité de fine-tuner un modèle spécifique aux manuscrits enluminés.
   - Montréal Université McGill ms. 156
   - Nashville, Vanderbilt Univserity, Fine Arts Gallery collection, Acq. 1983.014
   - New York, Morgan Library and Museum, Ms M 28
-  - New York, Morgan Library and Museum, ms. M 1000
-  - New York, Morgan Library & Museum, MS. M.287
-  - New York, Morgan Library & Museum, MS. M.293
-  - New York, Morgan Library and Museum, ms. M. 453
-  - New York, Morgan Library and Museum, ms. M.57
-  - New York, Morgan Library and Museum, ms. M.196
-  - New York, Public Library, ms. 41
-  - Philadelphia, UP, Lewis E 85
-  - Princeton, University Art Museum, y1950-4
-  - Vienne, Österreichische Nationalbibliothek, cod. 1881
-  - Vienne, Österreichische Nationalbibliothek, cod. 1889
-  - Wellington, Alexander Turnbull Library, National Library of New Zealand, MSR-02 
+
+  ## 2026-06-12 - Anotation pt 1 **Blocage Fondue — quota dépassé**
+- 9 manuscrits annotés bloqués sur le serveur
+- 2 exports ALTO récupérés sur PC avant blocage : Melbourne, State Library of Victoria, 096/R66Hm;   - Nashville, Vanderbilt Univserity, Fine Arts Gallery collection, Acq. 1983.014.
+- 7 exports impossibles — erreur Disk quota exceeded
+- Email envoyé à Simon Gabay pour augmentation quota
+- À faire dès déblocage : exporter les 7 manuscrits 
+  restants avant toute autre action.
+
